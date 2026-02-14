@@ -1,6 +1,6 @@
 # Laboratorio 1
 ## Descripción del laboratorio
-Este repositorio fue creado como parte de un laboratorio de GitHub, donde el objetivo del proyecto es empezar a familiarizarnos con los conceptos basicos para poder manejar un repositorio remoto
+Este repositorio fue creado como parte de un laboratorio de GitHub, donde el objetivo del proyecto es empezar a familiarizarnos con los conceptos basicos para poder manejar un repositorio remoto.
 Durante el desarrollo del laboratorio ejercitaremos el uso de las herramientas para el manejo del repositorio incluyendo la creación de ramas, commits y pull requests.
 
 ## Lista de comandos utilizados
